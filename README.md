@@ -5,13 +5,23 @@
 </p>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center"><strong> Total Contributions</strong><br>85<br><sub>Jul 31, 2023 - Present</sub></td>
-      <td align="center"><strong> Current Streak</strong><br>1 day<br><sub>Jun 15</sub></td>
-      <td align="center"><strong> Longest Streak</strong><br>6 days<br><sub>Jul 15, 2024 - Jul 20, 2024</sub></td>
-    </tr>
-  </table>
+  <b>Manuel Ruiz's GitHub Stats</b><br>
+  - <b>Total Stars Earned:</b> 0<br>
+  - <b>Total Commits (last year):</b> 24<br>
+  - <b>Total PRs:</b> 33<br>
+  - <b>Total Issues:</b> 0<br>
+  - <b>Contributed to (last year):</b> 5
+</p>
+
+<p align="center">
+  <b>Streaks</b><br>
+  - <b>Total Contributions:</b> 85 (Jul 31, 2023 - Present)<br>
+  - <b>Current Streak:</b> 1 day (Jun 15)<br>
+  - <b>Longest Streak:</b> 6 days (Jul 15, 2024 - Jul 20, 2024)
+</p>
+
+<p align="center">
+  <b>Profile views:</b> 1
 </p>
 
 <p align="center">
