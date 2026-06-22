@@ -36,6 +36,7 @@ Passionate about building web applications, exploring new technologies, and ever
       <h3>DBs</h3>
       <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
       <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
     </td>
     <td valign="top" width="20%">
       <h3>DevOps</h3>
