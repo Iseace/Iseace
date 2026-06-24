@@ -6,10 +6,10 @@ Software Developer & Engineering Student | Linux Enthusiast
 Passionate about building web applications, exploring new technologies, and everything related to Linux
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iseace&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><img src="https://streak-stats.demolab.com/?user=Iseace&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iseace&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Iseace&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p/>
 ## Technologies and tools
 <div align="center">
 <table width="100%">
